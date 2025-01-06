@@ -1,0 +1,7 @@
+{
+    "email": "example@example.com",
+    "password": "securepassword123",
+    "push_endpoint": "https://example.com/push-endpoint",
+    "push_p256dh": "p256dh-key-here",
+    "push_auth": "auth-key-here"
+}
